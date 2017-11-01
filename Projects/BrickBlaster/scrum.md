@@ -16,7 +16,7 @@
 
 ## Other Notes
 - Blaster has a limited clip.
--- Pin will only fire a certain number of times before a reload is required.
--- Safety must be turned off to reload.
--- Safety must then be turned back ON to fire.
--- 15 >= 'CLIP_SIZE' >= 1
+  - Pin will only fire a certain number of times before a reload is required.
+  - Safety must be turned off to reload.
+  - Safety must then be turned back ON to fire.
+  - 15 >= 'CLIP_SIZE' >= 1
