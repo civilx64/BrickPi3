@@ -2,7 +2,6 @@
 ## Minimum Viable Application (MVA)
 - Static-mounted
 - Fired via touch sensor only
-- *not* automatic - each shot must be triggered individually
 
 ## Requirements gathering
 - *Blaster* has a *trigger* and a firing *pin*.
